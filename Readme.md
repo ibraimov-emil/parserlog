@@ -1,4 +1,4 @@
-1. cd app
+1. cd server
 2. npm i
 3. npm run dev
 4. Перейти по http://localhost:3000/
